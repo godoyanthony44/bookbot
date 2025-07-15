@@ -1,0 +1,7 @@
+============ BOOKBOT ============
+Analyzing book found at {filename}...
+----------- Word Count ----------
+Found {word_count} total words
+--------- Character Count -------
+{data}
+============= END ===============
